@@ -1,0 +1,499 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+.nav-link{
+	font-style: normal;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 14px;
+	color: #001767;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+#navbar {
+  background-color: #f1f1f1;
+  padding: 40px 10px;
+  transition: 1s;
+  position: fixed;
+  width: 100%;
+}
+
+#navbar #logo {
+  
+  transition: 1.0s;
+}
+.dropdown:hover .dropdown-menu {display: block;}
+
+
+.back1{
+	background-image: url("residential-electrical-contractor.jpg");
+	height: 847px;
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.back2{
+	background: linear-gradient(110deg,rgba(0,29,105,.7)50%,rgb(0,32,128,0)0%);
+	height: 847px;
+	width: 100%;
+}
+.back3{
+	position: relative;
+    top: 45%;
+	width: 50%;
+	height: 200px;
+	text-align: center;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.p1{
+	font-style: normal;
+	font-size: 42px;
+	color: white;
+	line-height: 42px;
+	font-weight: 500px;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.p2{
+	font-size: 26px;
+	height: 24px;
+	font-weight: 500px;
+	color: white;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.txtbox{
+	margin-top: 50px;
+	text-align: center;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	color: #666666;
+}
+
+.f1{
+	background-image: url("feature-bg-icon-final.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	border: 1px solid;
+}
+.sect2{
+	margin-top: 100px;
+}
+.sec1{
+	text-align: center;
+	font-size: 29px;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	color: #666666;
+	line-height: 35px;
+	font-style: normal;
+	font-weight: 500px;
+
+}
+.sec2{
+	background-image: url("Giroux-Electric-home-service.jpg");
+	clip-path: polygon(100% 0,30% 0,0 53%,30% 100%,100% 100%);
+	height: 400px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.txtdiv1{;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	text-align: center;
+	color: white;
+	height: 200px;
+	width: 300px;
+}
+.txtdiv2{
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	text-align: center;
+	color: white;
+	height: 200px;
+	width: 300px;
+}
+.bgblack{
+	background-color: black;
+	height: 400px;
+	opacity: 0.5;
+}
+.sect3{
+	text-align: center;
+}
+.sec3{
+	text-align: center;
+	font-size: 30px;
+	line-height: 30px;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	color: #666666;
+}
+.box1{
+	width: 70%;
+	position: relative;
+	top: 20%;
+}
+.box2{
+    width: 25%;
+	position: relative;
+	left: 70%;
+	bottom: 30%;
+	color: white;
+	font-size: 60px;
+}
+.box3{
+    width: 30%;
+	position: relative;
+	left: 70%;
+	bottom: 18%;
+	color: white;
+	font-size: 60px;
+	float: left;
+}
+.para1{
+	font-size: 24px;
+	line-height: 24px;
+	color: #666666;
+	font-weight: 500px;
+    font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.para2{
+	font-size: 14px;
+	line-height: 24px;
+	color: #666666;
+	font-weight: 500px;
+	font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+}
+.icon{
+	
+}
+.sect3{
+	margin-top: 50px;
+}
+.r1{
+	margin-top: 50px;
+}
+.s3{
+	background-image: url("residential-service.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+.s4{
+	background-image: url("commercial-service.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+.bgr{
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	height: 400px;
+	
+}
+
+.bgtxt{
+	position: relative;
+	top: 10%;
+	text-align: center;
+}
+.parag1{
+	font-size: 26px;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	line-height: 24px;
+	z-index: 10;
+}
+.parag2{
+	font-size: 18px;
+	font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+	line-height: 24px;
+	text-align: justify;
+	z-index: 10;
+}
+.button {
+  position: relative;
+  left: 30%;
+  bottom: 20%;
+  border-radius: 4px;
+  background-color: #FFFFFF00;
+  border: 2px solid white;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 20px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.cont {
+ width: 100%;
+ height: 140vh;
+ background-image: url("home-botton-img.jpg");
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-color: rgb(0,0,0,.6);
+ background-blend-mode: overlay;
+ color: #fff;
+}
+
+.contents {
+ width: 50%;
+ position: relative;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ text-align: center;
+}
+
+.prg2 {
+ font-family: "Varela Round", Helvetica, Arial, Lucida, sans-serif;
+ font-size: 26px;
+ line-height: 26px;
+}
+
+.prg1{
+	font-family: "Varela Round", Helvetica, Arial, Lucida, sans-serif;
+	font-size: 35px;
+	line-height: 35px;
+}
+.bottom{
+	text-align: center;
+	height: auto;
+	padding: 80px;
+	font-size: 30px;
+	font-weight: 30px;
+	color: white;
+	background: #001D69;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.parag3{
+	font-size: 35px;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	color: white;
+	line-height: 35px;
+	z-index: 10;
+}
+.parag4{
+	font-size: 24px;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+    color: white;
+	line-height: 24px;
+	z-index: 10;
+}
+.button1 {
+  bottom: 20%;
+  border-radius: 4px;
+  background-color: #FFFFFF00;
+  border: 2px solid white;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 15px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button1 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button1:hover span {
+  padding-right: 20px;
+}
+
+.button1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.foot1{
+	background-color: #1a1a00;
+	color: white;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	padding: 40px;
+}
+.fp1{
+	font-size: 18px;
+}
+.fp2{
+	font-size: 14px;
+}
+.fp3{
+	height: 250px;
+	overflow-y: scroll;
+}
+.footer{
+	text-align: center;
+	padding: 20px;
+	background-color: black;
+	color: white;
+}
+
+.button3 {
+  border-radius: 4px;
+  background-color: #001767;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 8px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button3 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button3 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button3:hover span {
+  padding-right: 20px;
+}
+
+.button3:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+@media(max-width: 760px ){
+	.back2{
+	background: linear-gradient(0deg,rgba(0,29,105,.7)50%,rgb(0,32,128,0)50%);
+	height: 847px;
+	width: 100%;
+     }
+    	.parag3{
+    		font-size: 20px;
+    	}
+        .parag4{
+    	font-size: 15px;
+       }
+       .back3{
+       	position: relative;
+       	top: 55%;
+       	left: 25%;
+        width: 50%;
+       	height: 200px;
+       	text-align: center;
+       	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+       }
+       .p1{
+       	font-style: normal;
+       	font-size: 24px;
+       	color: white;
+       	line-height: 42px;
+       	font-weight: 500px;
+       	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+       }
+       .p2{
+       	font-size: 16px;
+       	height: 24px;
+       	font-weight: 500px;
+       	color: white;
+       	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+       }
+      
+       .box2{
+        width: 30%;
+       	position: relative;
+       	left: 80%;
+       	bottom: 30%;
+       	color: white;
+       	font-size: 60px;
+       	float: left;
+       }
+       .box3{
+           width: 30%;
+       	position: relative;
+       	left: 80%;
+       	bottom: 18%;
+       	color: white;
+       	font-size: 60px;
+       	float: left;
+       }
+       .lastlogo{
+       	width: 80%;
+       }
+       .contents {
+        width: 50%;
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+       }
+
+       .parag1{
+       	font-size: 18px;
+       	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+       	line-height: 24px;
+       	z-index: 10;
+       }
+       .parag2{
+       	font-size: 14px;
+       	font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+       	line-height: 24px;
+       	text-align: justify;
+       	z-index: 10;
+       }
+       .prg2 {
+        font-family: "Varela Round", Helvetica, Arial, Lucida, sans-serif;
+        font-size: 20px;
+        line-height: 26px;
+       }
+
+       .prg1{
+       	font-family: "Varela Round", Helvetica, Arial, Lucida, sans-serif;
+       	font-size: 26px;
+       	line-height: 35px;
+       }
+
+}
+

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+.nav-link{
+	font-style: normal;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 14px;
+	color: #001767;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+#navbar {
+  background-color: #f1f1f1;
+  padding: 40px 10px;
+  transition: 1s;
+  position: fixed;
+  width: 100%;
+}
+
+#navbar #logo {
+  
+  transition: 1.0s;
+}
+.dropdown:hover .dropdown-menu {display: block;}
+.p1{
+	font-size: 26px;
+	line-height: 26px;
+	color: #666666;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.p2{
+	font-size: 14px;
+	line-height: 24px;
+	color: #666666;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.p3{
+	font-size: 18px;
+	line-height: 18px;
+	color: #666666;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.p4{
+	font-size: 14px;
+	line-height: 24px;
+	color: #082359;
+	font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+}
+.dec{
+	color: #666666;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+}
+.col .row{
+	display: block;
+}
+
+.foot1{
+	background-color: #1a1a00;
+	color: white;
+	font-family: Varela Round, Helvetica, Arial, Lucida, sans-serif;
+	padding: 40px;
+}
+.fp1{
+	font-size: 18px;
+}
+.fp2{
+	font-size: 14px;
+}
+.fp3{
+	height: 250px;
+	overflow-y: scroll;
+}
+.footer{
+	text-align: center;
+	padding: 20px;
+	background-color: black;
+	color: white;
+}
